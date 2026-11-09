@@ -4,6 +4,8 @@
 > A Google Sheets analysis of Eurostat price indices, where a Google Apps Script (JavaScript) writes all the growth-rate and summary formulas automatically instead of typing them by hand.
 
 **Tools:** Google Sheets · Google Apps Script (JavaScript) · Eurostat
+**Type:** individual graded exam project (JavaScript module)
+**Live Google Sheet (read-only):** [open the spreadsheet](https://docs.google.com/spreadsheets/d/1uS-23kVu1b3RnVZ2PlCaMcd2bAOAfCVwdpoi_YXHyq0/edit?usp=sharing)
 **Slides (in French):** [`docs/slides_fr.pdf`](docs/slides_fr.pdf)
 
 ---
@@ -43,7 +45,7 @@ The script:
 
 Writing formulas (rather than hard-coded values) keeps every number traceable in the sheet.
 
-**To run it:** open the Google Sheet → *Extensions → Apps Script* → paste the `.gs` file → run `remplirFeuilleCalculs`.
+**To run it:** make a copy of the [Google Sheet](https://docs.google.com/spreadsheets/d/1uS-23kVu1b3RnVZ2PlCaMcd2bAOAfCVwdpoi_YXHyq0/edit?usp=sharing) (*File → Make a copy*) → *Extensions → Apps Script* → paste the `.gs` file → run `remplirFeuilleCalculs`.
 
 ## 4. Results
 
