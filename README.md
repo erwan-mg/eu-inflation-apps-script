@@ -3,9 +3,9 @@
 > **How did consumer prices evolve in Germany, France and Poland between 2022 and 2026?**
 > A Google Sheets analysis of Eurostat price indices, where a Google Apps Script (JavaScript) writes all the growth-rate and summary formulas automatically instead of typing them by hand.
 
-**Tools:** Google Sheets · Google Apps Script (JavaScript) · Eurostat
-**Type:** individual graded exam project (JavaScript module)
-**Live Google Sheet (read-only):** [open the spreadsheet](https://docs.google.com/spreadsheets/d/1uS-23kVu1b3RnVZ2PlCaMcd2bAOAfCVwdpoi_YXHyq0/edit?usp=sharing)
+**Tools:** Google Sheets · Google Apps Script (JavaScript) · Eurostat  
+**Type:** individual graded exam project (JavaScript module)  
+**Live Google Sheet (read-only):** [open the spreadsheet](https://docs.google.com/spreadsheets/d/1uS-23kVu1b3RnVZ2PlCaMcd2bAOAfCVwdpoi_YXHyq0/edit?usp=sharing)  
 **Slides (in French):** [`docs/slides_fr.pdf`](docs/slides_fr.pdf)
 
 ---
@@ -99,5 +99,5 @@ Writing formulas (rather than hard-coded values) keeps every number traceable in
 
 ## Author
 
-**Erwan Ramamonjisoa**: MSc AI Applied to Business (Eugenia School) · BSc Economics (Université Paris 1 Panthéon-Sorbonne)
+**Erwan Ramamonjisoa**: MSc AI Applied to Business (Eugenia School) · BSc Economics (Université Paris 1 Panthéon-Sorbonne)  
 [LinkedIn](https://www.linkedin.com/in/erwan-r)
